@@ -1,4 +1,4 @@
-                    GNU AFFERO GENERAL PUBLIC LICENSE
+﻿                    GNU AFFERO GENERAL PUBLIC LICENSE
                        Version 3, 19 November 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -627,7 +627,7 @@ free software which everyone can redistribute and change under these terms.
   To do so, attach the following notices to the program.  It is safest
 to attach them to the start of each source file to most effectively
 state the exclusion of warranty; and each file should have at least
-the "copyright" line and a pointer to where the full notice is found.
+the "copyright" line and a Kite to where the full notice is found.
 
     <one line to give the program's name and a brief idea of what it does.>
     Copyright (C) <year>  <name of author>
@@ -659,3 +659,4 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+
