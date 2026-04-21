@@ -1,4 +1,4 @@
-﻿# CL4R1T4S
+﻿
 
 AI SYSTEMS TRANSPARENCY AND OBSERVABILITY FOR ALL! Full extracted system prompts, guidelines, and tools from AI models + agents! 
 
